@@ -1,6 +1,6 @@
 
 <h1 align="left">Federico Mustich</h1>
-<img align="right" src="figures/DIANA White.png" width="13%"/>
+<img align="right" src="figures/DIANA White.png" width="13%" style="margin-top: 10px;"/>
 <img align="left" src="figures/DIANA_icon_colored.png" width="13%"/>
 <h3 align="left">A Computer Engineer studying and working on AI and Space Robotics</h3>
 
