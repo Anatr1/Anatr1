@@ -4,7 +4,7 @@
 <img align="left" src="figures/DIANA_icon_colored.png" width="13%"/>
 <h3 align="left">A Computer Engineer studying and working on AI and Space Robotics</h3>
 
-I am Federico Mustich, (aka @HalfARobot, @H4R or @Anatr1), a Computer Engineer from Italy. I am currently **leader of the Computer Science Department at [DIANA](https://github.com/team-diana)**, a space robotics student team from [Politecnico di Torino](https://www.polito.it/) participating at student competitions and active in research and development of space robotics technologies, leading the development and integration of the DIANA Software, a custom built framework for space rover applications.
+I am Federico Mustich, (aka @HalfARobot, @H4R or @Anatr1), a Computer Engineer from Italy. I am currently **leader of the Computer Science Department at [DIANA](https://github.com/team-diana)**, a space robotics student team from [Politecnico di Torino](https://www.polito.it/) participating at student competitions and active in research and development of space robotics technologies, leading the development and integration of the **DIANA Software**, a custom built framework for space rover applications.
 
 <p><img align="left" src="https://github-readme-stats-poo2.vercel.app/api/top-langs?username=anatr1&show_icons=true&locale=en&theme=transparent&bg_color=00000000&hide=Makefile,HTML,CMake&langs_count=5" alt="anatr1" width="41%"/></p>
 
