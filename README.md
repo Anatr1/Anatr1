@@ -8,7 +8,7 @@ I am Federico Mustich, (aka @HalfARobot, @H4R or @Anatr1), a Computer Engineer f
 
 <p><img align="left" src="https://github-readme-stats-poo2.vercel.app/api/top-langs?username=anatr1&show_icons=true&locale=en&theme=transparent&bg_color=00000000&hide=Makefile,HTML,CMake&langs_count=5" alt="anatr1" width="30%"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-poo2.vercel.app/api?username=anatr1&show_icons=true&locale=en&theme=transparent&&show=prs_merged,prs_merged_percentage&bg_color=00000000&include_all_commits=true" alt="anatr1" width="70%"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-poo2.vercel.app/api?username=anatr1&show_icons=true&locale=en&theme=transparent&&show=prs_merged,prs_merged_percentage&bg_color=00000000&include_all_commits=true" alt="anatr1" width="67%"/></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anatr1&theme=transparent&bg_color=00000000" alt="anatr1" width="100%"/></p>
 
