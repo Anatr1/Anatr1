@@ -1,14 +1,14 @@
 
-<h1 align="left">Federico Mustich</h1>
+<h1 align="center">Federico Mustich</h1>
 <img align="right" src="figures/DIANA White.png" width="13%" style="margin-top: 10px;"/>
 <img align="left" src="figures/DIANA_icon_colored.png" width="13%"/>
 <h3 align="left">A Computer Engineer studying and working on AI and Space Robotics</h3>
 
 I am Federico Mustich, (aka @HalfARobot, @H4R or @Anatr1), a Computer Engineer from Italy. I am currently **leader of the Computer Science Department at [DIANA](https://github.com/team-diana)**, a space robotics student team from [Politecnico di Torino](https://www.polito.it/) participating at student competitions and active in research and development of space robotics technologies, leading the development and integration of the DIANA Software, a custom built framework for space rover applications.
 
-<p><img align="left" src="https://github-readme-stats-poo2.vercel.app/api/top-langs?username=anatr1&show_icons=true&locale=en&theme=transparent&bg_color=00000000" alt="anatr1" width="33%"/></p>
+<p><img align="left" src="https://github-readme-stats-poo2.vercel.app/api/top-langs?username=anatr1&show_icons=true&locale=en&theme=transparent&bg_color=00000000&hide=Makefile,HTML,CMake,Jupyter Notebook&langs_count=5&layout=donut" alt="anatr1" width="40%"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-poo2.vercel.app/api?username=anatr1&show_icons=true&locale=en&theme=transparent&&show=prs_merged,prs_merged_percentage&rank_icon=github&bg_color=00000000" alt="anatr1" width="64%"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-poo2.vercel.app/api?username=anatr1&show_icons=true&locale=en&theme=transparent&&show=prs_merged,prs_merged_percentage&bg_color=00000000&include_all_commits=true" alt="anatr1" width="56%"/></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anatr1&theme=transparent&bg_color=00000000" alt="anatr1" width="100%"/></p>
 
