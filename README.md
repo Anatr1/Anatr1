@@ -21,8 +21,8 @@ I am Federico Mustich, (aka @HalfARobot, @H4R or @Anatr1), a Computer Engineer f
 <a href="https://github.com/Anatr1/DIANA-Gym">
   <img align="center" src="./figures/dianagym.png" width="35%" />
 </a>
-<a href="https://github.com/Anatr1/egovision-action-classifier">
-  <img align="center" src="https://github-readme-stats-poo2.vercel.app/api/pin/?username=Anatr1&repo=egovision-action-classifier&theme=transparent&bg_color=00000000"/>
+<a href="https://github.com/Anatr1/egovision-EMG-action-classifier">
+  <img align="center" src="https://github-readme-stats-poo2.vercel.app/api/pin/?username=Anatr1&repo=egovision-EMG-action-classifier&theme=transparent&bg_color=00000000"/>
 </a>
 <a href="https://github.com/Anatr1/egovision-action-classifier">
   <img align="center" src="./figures/eac.png" width="35%" />
