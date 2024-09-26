@@ -1,10 +1,17 @@
 
 <h1 align="center">Federico Mustich</h1>
-<img align="left" src="figures/LogoICE.png" width="13%"/>
-<img src="figures/LogotypeIce.png" width="13%"/>
-<h3 align="left">A Computer Engineer studying and working on AI and Space Robotics</h3>
 
-I am Federico Mustich, (aka @HalfARobot, @H4R or @Anatr1), a Computer Engineer from Italy. I am currently **leader of the Computer Science Department at [DIANA](https://github.com/team-diana)**, a space robotics student team from [Politecnico di Torino](https://www.polito.it/) participating at student competitions and active in research and development of space robotics technologies, leading the development and integration of the **DIANA Software**, a custom built framework for space rover applications.
+<div align="left">
+  <img align="left" src="figures/LogoICE.png" width="13%"/>
+  <br>
+  <img align="left" src="figures/LogotypeICE.png" width="13%"/> <!-- Assuming your white PNG logo is named "diana_white_logo.png" -->
+</div>
+
+<h3 align="right">A Computer Engineer studying and working on AI and Space Robotics</h3>
+
+<p align="right">
+I am Federico Mustich, (aka @HalfARobot, @H4R or @Anatr1), a Computer Engineer from Italy. I am currently <strong>leader of the Computer Science Department at <a href="https://github.com/team-diana">DIANA</a></strong>, a space robotics student team from <a href="https://www.polito.it/">Politecnico di Torino</a> participating at student competitions and active in research and development of space robotics technologies, leading the development and integration of the <strong>DIANA Software</strong>, a custom built framework for space rover applications.
+</p>
 
 <p><img align="left" src="https://github-readme-stats-poo2.vercel.app/api/top-langs?username=anatr1&show_icons=true&locale=en&theme=transparent&bg_color=00000000&hide=Makefile,HTML,CMake&langs_count=5" alt="anatr1" width="41%"/></p>
 
