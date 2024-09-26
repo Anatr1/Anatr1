@@ -1,7 +1,7 @@
 
 <h1 align="center">Federico Mustich</h1>
-<img align="right" src="figures/DIANA White.png" width="13%" style="margin-top: 10px;"/>
-<img align="left" src="figures/DIANA_icon_colored.png" width="13%"/>
+<img align="right" src="figures/Logotype\ Ice.png" width="13%" style="margin-top: 10px;"/>
+<img align="left" src="figures/Logo\ nuovo\ ICE.png" width="13%"/>
 <h3 align="left">A Computer Engineer studying and working on AI and Space Robotics</h3>
 
 I am Federico Mustich, (aka @HalfARobot, @H4R or @Anatr1), a Computer Engineer from Italy. I am currently **leader of the Computer Science Department at [DIANA](https://github.com/team-diana)**, a space robotics student team from [Politecnico di Torino](https://www.polito.it/) participating at student competitions and active in research and development of space robotics technologies, leading the development and integration of the **DIANA Software**, a custom built framework for space rover applications.
