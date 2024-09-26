@@ -4,7 +4,7 @@
 <div align="left">
   <img align="left" src="figures/LogoICE.png" width="13%"/>
   <br>
-  <img align="left" src="figures/LogotypeICE.png" width="13%"/> <!-- Assuming your white PNG logo is named "diana_white_logo.png" -->
+  <img align="left" src="figures/LogotypeIce.png" width="13%"/> <!-- Assuming your white PNG logo is named "diana_white_logo.png" -->
 </div>
 
 <h3 align="right">A Computer Engineer studying and working on AI and Space Robotics</h3>
