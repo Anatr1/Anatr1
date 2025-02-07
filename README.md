@@ -5,7 +5,7 @@
   <h3 align="left"> AI and Space Robotics</h3>
 </div>
 <img align="left" src="figures/LogoICE.png" width="13%"/>
-<img align="right" src="figures/LogotypeIce.png" width="13%"/> 
+<!--<img align="right" src="figures/LogotypeIce.png" width="13%"/> -->
 
 
 <p align="left">
