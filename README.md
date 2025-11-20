@@ -9,7 +9,7 @@
 
 
 <p align="left">
-I am Federico Mustich, (aka @HalfARobot, @H4R or @Anatr1), a Computer Engineer from Italy. I am currently <strong>head of the AI Group at <a href="https://github.com/team-diana">DIANA</a></strong>, a space robotics student team from <a href="https://www.polito.it/">Politecnico di Torino</a> participating at student competitions and active in research and development of space robotics technologies. I am also a ML Researcher for the proposed <a href="https://wivern.polito.it/">WIVERN</a></strong> ESA Mission.
+I am Federico Mustich, (aka @HalfARobot, @H4R or @Anatr1), a Computer Engineer from Italy. I am currently <strong>head of the AI Group at <a href="https://github.com/team-diana">DIANA</a></strong>, a space robotics student team from <a href="https://www.polito.it/">Politecnico di Torino</a> participating at student competitions and active in research and development of space robotics technologies. I am also a ML Researcher for the <a href="https://wivern.polito.it/">WIVERN</a></strong> ESA Mission.
 </p>
 
 <!--<p><img align="left" src="https://github-readme-stats-poo2.vercel.app/api/top-langs?username=anatr1&show_icons=true&locale=en&theme=transparent&bg_color=00000000&hide=Makefile,HTML,CMake&langs_count=5" alt="anatr1" width="41%"/></p>-->
